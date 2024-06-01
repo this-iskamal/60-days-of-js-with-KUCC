@@ -1,0 +1,3 @@
+Today i learned about the basics of the internet and how the browser works !
+
+When you visit a website, your computer sends a request over these wires to a server. A server is where websites are stored, and it works a lot like your computer's hard drive. Once the request arrives, the server retrieves the website and sends the correct data back to your computer. What's amazing is that this all happens in just a few seconds!
